@@ -1,12 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio-2/static/css/main.c2177def.css",
-    "main.js": "/Portfolio-2/static/js/main.2f662518.js",
+    "main.css": "/Portfolio-2/static/css/main.10f2e9ab.css",
+    "main.js": "/Portfolio-2/static/js/main.ed7fd614.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-2/static/js/787.1ed0c42c.chunk.js",
+    "static/media/genshin1.png": "/Portfolio-2/static/media/genshin1.0fdfa9d1f9f8b00f1efa.png",
+    "static/media/fallguys1.png": "/Portfolio-2/static/media/fallguys1.615828421ef00a35a085.png",
+    "static/media/genshin2.png": "/Portfolio-2/static/media/genshin2.33eb3b7d03bea0383c1e.png",
+    "static/media/genshin3.png": "/Portfolio-2/static/media/genshin3.24f1549bc6871ff66a5e.png",
+    "static/media/fallguys2.png": "/Portfolio-2/static/media/fallguys2.e5b1ffb71108d3e8a474.png",
     "static/media/stars-train.gif": "/Portfolio-2/static/media/stars-train.dd43cdfc6f34ad7b414d.gif",
+    "static/media/fallguys3.png": "/Portfolio-2/static/media/fallguys3.4e5420c9e35b5becb363.png",
+    "static/media/notas1.png": "/Portfolio-2/static/media/notas1.c4dd4f3242baf08d3d07.png",
+    "static/media/port2.png": "/Portfolio-2/static/media/port2.826d0b313dd2264cb55d.png",
     "static/media/imgp1.png": "/Portfolio-2/static/media/imgp1.8eac83401681b2e0f70a.png",
     "static/media/imgt3.png": "/Portfolio-2/static/media/imgt3.2b67db323fa36c1b741f.png",
+    "static/media/port1.png": "/Portfolio-2/static/media/port1.e79f6bc99657b25b26cd.png",
+    "static/media/port3.png": "/Portfolio-2/static/media/port3.aeb5d619e3d03dd4701c.png",
     "static/media/imgt2.png": "/Portfolio-2/static/media/imgt2.a1f80ee9444419dd0aa3.png",
+    "static/media/notas3.png": "/Portfolio-2/static/media/notas3.7f2280b36dd0e7d063a6.png",
+    "static/media/notas2.png": "/Portfolio-2/static/media/notas2.f217720f1038b961a476.png",
     "static/media/q2.png": "/Portfolio-2/static/media/q2.db9858e7247229eee9a9.png",
     "static/media/qt63.png": "/Portfolio-2/static/media/qt63.2fff3c51f9b890851ae6.png",
     "static/media/q4.png": "/Portfolio-2/static/media/q4.1081403c9fd34e9f7157.png",
@@ -26,12 +38,12 @@
     "static/media/html.svg": "/Portfolio-2/static/media/html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "static/media/icon-facebook.svg": "/Portfolio-2/static/media/icon-facebook.a67312c011cefc7ae8c6ecb9cbdd725a.svg",
     "static/media/check.svg": "/Portfolio-2/static/media/check.491c7c33a15eba9f6b6ba1f3d0b86a12.svg",
-    "main.c2177def.css.map": "/Portfolio-2/static/css/main.c2177def.css.map",
-    "main.2f662518.js.map": "/Portfolio-2/static/js/main.2f662518.js.map",
+    "main.10f2e9ab.css.map": "/Portfolio-2/static/css/main.10f2e9ab.css.map",
+    "main.ed7fd614.js.map": "/Portfolio-2/static/js/main.ed7fd614.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-2/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2177def.css",
-    "static/js/main.2f662518.js"
+    "static/css/main.10f2e9ab.css",
+    "static/js/main.ed7fd614.js"
   ]
 }
