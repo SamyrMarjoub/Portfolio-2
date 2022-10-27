@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-2/static/css/main.47d0ca39.css",
+    "main.css": "/Portfolio-2/static/css/main.dc2f6614.css",
     "main.js": "/Portfolio-2/static/js/main.ab631def.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-2/static/js/787.1ed0c42c.chunk.js",
     "static/media/genshin1.png": "/Portfolio-2/static/media/genshin1.0fdfa9d1f9f8b00f1efa.png",
@@ -39,12 +39,12 @@
     "static/media/html.svg": "/Portfolio-2/static/media/html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "static/media/icon-facebook.svg": "/Portfolio-2/static/media/icon-facebook.a67312c011cefc7ae8c6ecb9cbdd725a.svg",
     "static/media/check.svg": "/Portfolio-2/static/media/check.491c7c33a15eba9f6b6ba1f3d0b86a12.svg",
-    "main.47d0ca39.css.map": "/Portfolio-2/static/css/main.47d0ca39.css.map",
+    "main.dc2f6614.css.map": "/Portfolio-2/static/css/main.dc2f6614.css.map",
     "main.ab631def.js.map": "/Portfolio-2/static/js/main.ab631def.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-2/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47d0ca39.css",
+    "static/css/main.dc2f6614.css",
     "static/js/main.ab631def.js"
   ]
 }
